@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://app.rocketseat.com.br/discover/challenges"> 🚀 Desafios da Rocketseat </a>
 </h1>
-<p align="center"> 💻 Repositório para mostrar algumas resoluções dos desafios da Rocketseat. </p>
+<p align="center"> 💻 Repositório para mostrar algumas resoluções dos <a href="https://app.rocketseat.com.br/discover/challenges">desafios da Rocketseat</a>. </p>
 
 Índice dos desafios
 ===================
@@ -31,11 +31,13 @@
 
 ## HTML básico
 
-### Glossário
-<p align="center">	🚧  Em construção...  🚧 </p>
+### [Glossário](https://github.com/LucasSPaiva/challenges-rockeseat/blob/main/html-basic/glossary.html)
+![grossario](https://user-images.githubusercontent.com/65200790/156936848-a232da85-6210-4291-a2ee-8df046dbf9d0.jpg)
 
-### Formulário de contato
-<p align="center">	🚧  Em construção...  🚧 </p>
+
+### [Formulário de contato](https://github.com/LucasSPaiva/challenges-rockeseat/blob/main/html-basic/formulario-contatos.html)
+![formulario](https://user-images.githubusercontent.com/65200790/156936850-fe476705-40d3-484a-9705-5a3a3cd154dc.jpg)
+
 
 ### Lista de compras
 <p align="center">	🚧  Em construção...  🚧 </p>
