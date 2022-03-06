@@ -32,21 +32,24 @@
 ## HTML básico
 
 ### [Glossário](https://github.com/LucasSPaiva/challenges-rockeseat/blob/main/html-basic/glossary.html)
-![grossario](https://user-images.githubusercontent.com/65200790/156936848-a232da85-6210-4291-a2ee-8df046dbf9d0.jpg)
+![glossario](https://user-images.githubusercontent.com/65200790/156936848-a232da85-6210-4291-a2ee-8df046dbf9d0.jpg)
 
 
 ### [Formulário de contato](https://github.com/LucasSPaiva/challenges-rockeseat/blob/main/html-basic/formulario-contatos.html)
 ![formulario](https://user-images.githubusercontent.com/65200790/156936850-fe476705-40d3-484a-9705-5a3a3cd154dc.jpg)
 
 
-### Lista de compras
-<p align="center">	🚧  Em construção...  🚧 </p>
+### [Lista de compras](https://github.com/LucasSPaiva/challenges-rocketseat/blob/main/html-basic/lista-compras.html)
+![lista-compras](https://user-images.githubusercontent.com/65200790/156947306-8fe5ee5a-bbd8-42f7-9429-032923443e2a.jpg)
 
-### Quiz
-<p align="center">	🚧  Em construção...  🚧 </p>
 
-### Blog Post
-<p align="center">	🚧  Em construção...  🚧 </p>
+### [Quiz](https://github.com/LucasSPaiva/challenges-rocketseat/blob/main/html-basic/quiz.html)
+![quiz](https://user-images.githubusercontent.com/65200790/156947308-8f291e8f-25c4-4586-92b5-4f41e3dab702.jpg)
+
+
+### [Blog Post](https://github.com/LucasSPaiva/challenges-rocketseat/blob/main/html-basic/blog-post.html)
+![blog-post](https://user-images.githubusercontent.com/65200790/156947303-2db961ad-309b-4929-aab5-c23b5bf0c894.jpg)
+
 
 ## Página de receitas
 <p align="center">	🚧  Em construção...  🚧 </p>
