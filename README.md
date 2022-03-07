@@ -12,7 +12,7 @@
       * [Lista de compras](#lista-de-compras)
       * [Quiz](#quiz)
       * [Blog Post](#blog-post)
-   * [Página de receita](#página-de-receitas)
+   * [Página de receita](#página-de-receita)
    * [Social Tree](#social-tree)
    * [Theme Switcher](#theme-switcher)
    * [RocketNews](#rocketnews)
@@ -51,8 +51,10 @@
 ![blog-post](https://user-images.githubusercontent.com/65200790/156947303-2db961ad-309b-4929-aab5-c23b5bf0c894.jpg)
 
 
-## Página de receitas
-<p align="center">	🚧  Em construção...  🚧 </p>
+## [Página de receita](https://github.com/LucasSPaiva/challenges-rocketseat/tree/main/recipe-page)
+![recipe](https://user-images.githubusercontent.com/65200790/157096320-a27797c6-9bb8-479b-bb6b-987a3552bdc4.png)
+
+
 
 ## Social Tree
 <p align="center">	🚧  Em construção...  🚧 </p>
