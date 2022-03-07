@@ -52,7 +52,7 @@
 
 
 ## [Página de receita](https://github.com/LucasSPaiva/challenges-rocketseat/tree/main/recipe-page)
-![recipe](https://user-images.githubusercontent.com/65200790/157096320-a27797c6-9bb8-479b-bb6b-987a3552bdc4.png)
+![recipe](https://user-images.githubusercontent.com/65200790/157098241-f8b6a0ab-6a43-44e1-81e0-8f4d155ce6d4.jpg)
 
 
 
